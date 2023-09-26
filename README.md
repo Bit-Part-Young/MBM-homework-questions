@@ -74,7 +74,6 @@ $E, \sigma_{0.01}, \sigma_s, \sigma_b, \delta$.
 
 ![question 1](./assets/week07/question1.png)
 
----
 **问题：**
 - 题目中的能量单位中有 mol，所以分母对应用 R 表示；$k_B = R / N_A$，$N_A$ 为阿伏伽德罗常数，即
 
