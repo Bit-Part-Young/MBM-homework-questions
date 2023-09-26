@@ -19,7 +19,7 @@
 
 ## 相对标准的图（供参考）
 
-![](https://notes.sjtu.edu.cn/uploads/upload_038a2ce44fd38c2ec454ee239989b2d2.png)
+![template figure](./assets/fig_template.png)
 
 图 1 $\rm{HV} - 1/\sqrt{d}$ 函数图
 
@@ -33,27 +33,36 @@
 
 What do you learn from this lecture? What are new to you? How do you understand them now?
 
+**问题：**
+
 略
 
 ### 第 2 题
 
 **题目：**
+
 Try to discuss the physical meaning of the following quantities, show them in a stress-strain curve:
 
-$E, \sigma_{0.01}, \sigma_s, \sigma_b, \delta$
+$E, \sigma_{0.01}, \sigma_s, \sigma_b, \delta$.
+
+**问题：**
 
 大部分同学都能写对，但也有个别同学出现一些理解上的错误：
 
-1. 将$\sigma_b$误认为是断裂时的应力；
-2. 标注$\delta_k$时直接标注断裂点对应的横坐标，没有排除弹性应变。正确做法应为**过断裂点作一条与弹性阶段平行的直线，与横轴的交点坐标为$\delta_k$**.
+- 将 $\sigma_b$ 误认为是断裂时的应力；
+- 标注 $\delta_k$ 时直接标注断裂点对应的横坐标，没有排除弹性应变。正确做法应为**过断裂点作一条与弹性阶段平行的直线，与横轴的交点坐标为$\delta_k$**.
 
 ### 第 3 题
-![](https://notes.sjtu.edu.cn/uploads/upload_7db1b93f948546f20621e330c3ec989f.jpg)
+
+**题目：**
+
+![question 3](./assets/week01/question3.jpg)
+
+**问题：**
 
 这一题的(a)和(b)相对简单，基本没有出现什么问题；而(c)全班只有一位同学算对，出现了以下问题：
-
-1. **单位问题：** 这一题的数据由文本格式的tensile.dat给出，在文件中有标明各物理量的单位的注释，而很多同学直接导入origin中，没有读到注释，将力的单位kN想当然地认为是N，计算出的答案不合常理（例如有同学算出弹性模量$E \approx 4 {\rm MPa}$）；
-2. **计算问题：** 很多同学即使单位没有算错，在计算弹性模量时也出错了。有同学拟合区间选择不当，导致$E$与答案偏差较大；有同学根本不进行线性拟合，直接随便选一个点，用应力除以应变就草草了事；
+- **单位问题：** 这一题的数据由文本格式的tensile.dat给出，在文件中有标明各物理量的单位的注释，而很多同学直接导入origin中，没有读到注释，将力的单位kN想当然地认为是N，计算出的答案不合常理（例如有同学算出弹性模量$E \approx 4 {\rm MPa}$）；
+- **计算问题：** 很多同学即使单位没有算错，在计算弹性模量时也出错了。有同学拟合区间选择不当，导致$E$与答案偏差较大；有同学根本不进行线性拟合，直接随便选一个点，用应力除以应变就草草了事。
 
 ---
 
