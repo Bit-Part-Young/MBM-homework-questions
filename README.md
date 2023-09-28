@@ -3,6 +3,7 @@
 - 作者：小小角色、走楼梯啊
 - 创建时间：2022.11.07
 - 不定期更新
+- 以下内容如有错误或疑问，或友好交流互动，请在该 repo 中提 [Issues](https://gitee.com/yangsl306/MMB-questions/issues/new)
 
 ---
 
