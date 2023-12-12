@@ -2,6 +2,7 @@
 
 - 作者：小小角色、走楼梯啊
 - 创建时间：2022.11.07
+- 网页版：[《材料力学行为》课程作业相关问题](https://seekanotherland.xyz/MBM-homework-questions/)
 - 推荐在该 repo 中进行提问 [Issues - Github](https://github.com/Bit-Part-Young/MBM-homework-questions/issues/new) / [Issues - Gitee](https://gitee.com/yangsl306/MBM-homework-questions/issues/new)；私信问助教也可以
 
 ---
