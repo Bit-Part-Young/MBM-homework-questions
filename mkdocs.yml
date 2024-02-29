@@ -3,7 +3,8 @@ site_description: MBM homework questions
 site_url: https://seekanotherland.xyz/MBM-homework-questions/
 repo_name: Bit-Part-Young/MBM-homework-questions
 repo_url: https://github.com/Bit-Part-Young/MBM-homework-questions/
-copyright: Copyright &copy 2023-2023
+edit_uri: blob/main/docs/
+copyright: Copyright &copy 2023-2024
 
 
 theme:
